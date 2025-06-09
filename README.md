@@ -4,8 +4,11 @@
 
 ###### Мета проекту
 Дата-пайплайн для фінансових даних з використанням концепції Medallion Architecture:
+
 •	Bronze Layer – сирі дані з Yahoo Finance
+
 •	Silver Layer – очищені та структуровані дані
+
 •	Gold Layer – агрегована інформація для бізнес-аналітики
 
 1.	**Bronze Layer** - Завантаження сирих фінансових даних з Yahoo Finance для компаній Industries in Software – Infrastructure Sector:
